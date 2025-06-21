@@ -1,0 +1,8 @@
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Estoque\Estoque\obj\Debug\Estoque.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Estoque\Estoque\obj\Debug\Estoque.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Estoque\Estoque\bin\Debug\Estoque.exe.config
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Estoque\Estoque\bin\Debug\Estoque.exe
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Estoque\Estoque\bin\Debug\Estoque.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Estoque\Estoque\obj\Debug\Estoque.exe
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Estoque\Estoque\obj\Debug\Estoque.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Estoque\Estoque\obj\Debug\Estoque.exe.config
