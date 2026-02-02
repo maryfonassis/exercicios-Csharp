@@ -1,0 +1,8 @@
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\ContaBancaria\ContaBancaria\bin\Debug\ContaBancaria.exe.config
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\ContaBancaria\ContaBancaria\bin\Debug\ContaBancaria.exe
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\ContaBancaria\ContaBancaria\bin\Debug\ContaBancaria.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.exe
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.exe.config
