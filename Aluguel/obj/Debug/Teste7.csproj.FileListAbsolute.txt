@@ -1,0 +1,8 @@
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Teste7\Teste7\bin\Debug\Teste7.exe.config
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Teste7\Teste7\bin\Debug\Teste7.exe
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Teste7\Teste7\bin\Debug\Teste7.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Teste7\Teste7\obj\Debug\Teste7.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Teste7\Teste7\obj\Debug\Teste7.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Teste7\Teste7\obj\Debug\Teste7.exe
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Teste7\Teste7\obj\Debug\Teste7.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Teste7\Teste7\obj\Debug\Teste7.exe.config
