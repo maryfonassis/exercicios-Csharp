@@ -1,0 +1,7 @@
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Enumeracao\Enumeracao\bin\Debug\Enumeracao.exe.config
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Enumeracao\Enumeracao\bin\Debug\Enumeracao.exe
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Enumeracao\Enumeracao\bin\Debug\Enumeracao.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Enumeracao\Enumeracao\obj\Debug\Enumeracao.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Enumeracao\Enumeracao\obj\Debug\Enumeracao.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Enumeracao\Enumeracao\obj\Debug\Enumeracao.exe
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Enumeracao\Enumeracao\obj\Debug\Enumeracao.pdb
